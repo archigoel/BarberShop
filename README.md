@@ -23,13 +23,7 @@ You'll see customers enter the waiting room and move to chairs as barbers become
   </tr>
 </table>
 
-| Initial State | 10,000x Simulation |
-| :---: | :---: |
-| ![Empty Shop](.media/Screenshot_1.png.) | ![Full Shop](./media/Screenshot_2.png) |
-
-
-[Watch the Demo]
-<video src="media/recording.mp4" width="400" controls></video>
+![App Demo Video](media/recording.mp4)
 
 #### How I Built It
 
