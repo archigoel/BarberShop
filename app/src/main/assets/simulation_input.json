@@ -1,0 +1,31 @@
+{
+  "shop_name": "Stellar Salon",
+  "config": {
+    "open_time": "09:00",
+    "close_time": "17:00",
+    "shift_change_time": "13:00",
+    "max_capacity": 8,
+    "frustration_limit_minutes": 20
+  },
+  "barber_shifts": {
+    "shift_1": ["Alice", "Bob", "Charlie", "Dave"],
+    "shift_2": ["Eve", "Frank", "Grace", "Heidi"]
+  },
+  "events": [
+    { "arrival_time": "09:00", "haircut_duration": 40 },
+    { "arrival_time": "09:01", "haircut_duration": 40 },
+    { "arrival_time": "09:02", "haircut_duration": 40 },
+    { "arrival_time": "09:03", "haircut_duration": 40 },
+    { "arrival_time": "09:04", "haircut_duration": 40 },
+    { "arrival_time": "09:05", "haircut_duration": 40 },
+    { "arrival_time": "09:06", "haircut_duration": 40 },
+    { "arrival_time": "09:07", "haircut_duration": 40 },
+    { "arrival_time": "09:08", "haircut_duration": 40 },
+    { "arrival_time": "09:10", "haircut_duration": 5 },
+    { "arrival_time": "12:50", "haircut_duration": 30 },
+    { "arrival_time": "16:55", "haircut_duration": 40 },
+    { "arrival_time": "16:58", "haircut_duration": 10 },
+    { "arrival_time": "17:00", "haircut_duration": 10 }
+
+  ]
+}
